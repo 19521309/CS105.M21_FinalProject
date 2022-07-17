@@ -12,8 +12,8 @@
 ## Link Google Drive :
 - Link goodgle drive chứa toàn bộ private test dataset, source code, model, kết quả: [here](https://drive.google.com/drive/folders/1q8-q92FlpLNYbcPiv-oMGzA5p_uyCLLs?usp=sharing)
 ## Dataset
-- Dataset nhóm sử dụng là FER2013 trên Kaggle [ở đây](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition)\
-- Private test data : [ở đây](https://drive.google.com/drive/u/0/folders/1lHtybnr5VOFmBN83Ky9vLHFs8bJtw3wC)
+- Dataset nhóm sử dụng là FER2013 trên Kaggle [here](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition)
+- Private test data : [here](https://drive.google.com/drive/u/0/folders/1lHtybnr5VOFmBN83Ky9vLHFs8bJtw3wC)
 ## Các nghiên cứu trước
 ### Rank 1:
 - Model : Ensemble ResMaskingNet with 6 other CNNs
@@ -27,7 +27,7 @@
 - Model : LHC-Net
 - Accuracy : 74.42%
 - [Link](https://arxiv.org/pdf/2111.07224v2.pdf)
-## Model nhóm sử dụng : [ở đây](https://drive.google.com/drive/folders/1Gr-u9cjommoOPQznk-gOBWAQSxXnolmE?usp=sharing) 
+## Model nhóm sử dụng : [here](https://drive.google.com/drive/folders/1Gr-u9cjommoOPQznk-gOBWAQSxXnolmE?usp=sharing) 
 - ResNet50 : Accuracy 65.94%
 - VGG16 : Accuracy 68.63%
 ## Test trên private test data
