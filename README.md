@@ -30,7 +30,7 @@
 ## Model nhóm sử dụng : [here](https://drive.google.com/drive/folders/1Gr-u9cjommoOPQznk-gOBWAQSxXnolmE?usp=sharing) 
 - ResNet50 : Accuracy 65.94%
 - VGG16 : Accuracy 68.63%
-## Test trên private test data
+## Thử nghiệm trên private test data
 - ***Source code*** trong file PredictOnTestImages.ipynb
 - ***Source code*** của Detect face and predict trong file DetectFaceAndPredict.ipynb
 ## Ứng dụng dự đoán biểu cảm gương mặt sử dụng Streamlit, Python dựa trên 2 model đã được train ở trên.
