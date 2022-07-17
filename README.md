@@ -10,7 +10,7 @@
 | 19521217   | Trần Nguyễn Quỳnh Anh | Thu thập private test data, làm slide PowerPoint|
 | 19521309   | Đinh Hoàng Linh Đan | Deploy web API |
 ## Dataset
-Dataset nhóm sử dụng là FER2013 trên Kaggle [ở đây](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition).
+Dataset nhóm sử dụng là FER2013 trên Kaggle [ở đây](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition)
 Private test data : [ở đây](https://drive.google.com/drive/u/0/folders/1lHtybnr5VOFmBN83Ky9vLHFs8bJtw3wC)
 ## Các nghiên cứu trước
 ### Rank 1:
