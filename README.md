@@ -2,7 +2,7 @@
 
 ## Nhóm 12
 
-**Giảng viên viên hướng dẫn :  Đỗ Văn Tiến**
+**Giảng viên viên hướng dẫn :  Nguyễn Vinh Tiệp**
 | MSSV       |  Họ và Tên       | Công Việc                               |
 | -----------| -------------    |-----------------------------------------|
 | 19522454   | Nguyễn Tấn Tú    | [Train ResNet50](https://www.kaggle.com/code/tunguyentan/face-emotion-recognition-using-resnet50), [Detect Face and Predict](https://colab.research.google.com/drive/1xiKulEmis7lrTgW7ktfXT0S3dubX3dX8?usp=sharing)|
