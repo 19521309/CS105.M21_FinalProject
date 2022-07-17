@@ -1,6 +1,6 @@
 # CS105.M21 - Facial Expression Recognition
 
-## Nhóm 10
+## Nhóm 12
 
 **Giảng viên viên hướng dẫn :  Đỗ Văn Tiến**
 | MSSV       |  Họ và Tên       | Công Việc                               |
