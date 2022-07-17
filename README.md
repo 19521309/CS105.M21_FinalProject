@@ -1,4 +1,4 @@
-# CS105.M21 - Facial Expression Recognition
+# CS331.M21 - Facial Expression Recognition
 
 ## Nhóm 12
 
