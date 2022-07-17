@@ -9,6 +9,8 @@
 | 19522555   | Nguyễn Thị Như Ý | [Train VGG16](https://www.kaggle.com/code/tunguyentan/face-emotion-recognition-using-vgg16/notebook), làm slide PowerPoint   |
 | 19521217   | Trần Nguyễn Quỳnh Anh | Thu thập private test data, làm slide PowerPoint|
 | 19521309   | Đinh Hoàng Linh Đan | Deploy web API |
+## Link Google Drive :
+- Link goodgle drive chứa toàn bộ private test dataset, source code, model, kết quả: [here](https://drive.google.com/drive/folders/1q8-q92FlpLNYbcPiv-oMGzA5p_uyCLLs?usp=sharing)
 ## Dataset
 Dataset nhóm sử dụng là FER2013 trên Kaggle [ở đây](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition)\
 Private test data : [ở đây](https://drive.google.com/drive/u/0/folders/1lHtybnr5VOFmBN83Ky9vLHFs8bJtw3wC)
