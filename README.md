@@ -24,5 +24,8 @@ Dataset nhóm sử dụng là FER2013 trên Kaggle [ở đây](https://www.kaggl
 - Model : LHC-Net
 - Accuracy : 74.42%
 - [Link](https://arxiv.org/pdf/2111.07224v2.pdf)
-## Ứng dụng dự đoán biểu cảm gương mặt sử dụng Streamlit, Python dựa trên 3 model đã được train ở trên.
+## Model nhóm sử dụng : [ở đây](https://drive.google.com/drive/folders/1Gr-u9cjommoOPQznk-gOBWAQSxXnolmE?usp=sharing) 
+- ResNet50 : Accuracy 65.94%
+- VGG16 : Accuracy 68.63%
+## Ứng dụng dự đoán biểu cảm gương mặt sử dụng Streamlit, Python dựa trên 2 model đã được train ở trên.
 ***Source code*** của Deploy Web API trong file streamlit.py.
