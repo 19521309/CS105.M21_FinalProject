@@ -11,6 +11,7 @@
 | 19521309   | Đinh Hoàng Linh Đan | Deploy web API |
 ## Dataset
 Dataset nhóm sử dụng là FER2013 trên Kaggle [ở đây](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition).
+Private test data : [ở đây](https://drive.google.com/drive/u/0/folders/1lHtybnr5VOFmBN83Ky9vLHFs8bJtw3wC)
 ## Các nghiên cứu trước
 ### Rank 1:
 - Model : Ensemble ResMaskingNet with 6 other CNNs
@@ -28,4 +29,4 @@ Dataset nhóm sử dụng là FER2013 trên Kaggle [ở đây](https://www.kaggl
 - ResNet50 : Accuracy 65.94%
 - VGG16 : Accuracy 68.63%
 ## Ứng dụng dự đoán biểu cảm gương mặt sử dụng Streamlit, Python dựa trên 2 model đã được train ở trên.
-***Source code*** của Deploy Web API trong file streamlit.py.
+***Source code*** của Deploy Web API trong file app_Res
