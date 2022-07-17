@@ -12,8 +12,8 @@
 ## Link Google Drive :
 - Link goodgle drive chứa toàn bộ private test dataset, source code, model, kết quả: [here](https://drive.google.com/drive/folders/1q8-q92FlpLNYbcPiv-oMGzA5p_uyCLLs?usp=sharing)
 ## Dataset
-Dataset nhóm sử dụng là FER2013 trên Kaggle [ở đây](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition)\
-Private test data : [ở đây](https://drive.google.com/drive/u/0/folders/1lHtybnr5VOFmBN83Ky9vLHFs8bJtw3wC)
+- Dataset nhóm sử dụng là FER2013 trên Kaggle [ở đây](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition)\
+- Private test data : [ở đây](https://drive.google.com/drive/u/0/folders/1lHtybnr5VOFmBN83Ky9vLHFs8bJtw3wC)
 ## Các nghiên cứu trước
 ### Rank 1:
 - Model : Ensemble ResMaskingNet with 6 other CNNs
