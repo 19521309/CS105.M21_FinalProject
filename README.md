@@ -32,6 +32,6 @@ Private test data : [ở đây](https://drive.google.com/drive/u/0/folders/1lHty
 - ***Source code*** trong file PredictOnTestImages.ipynb
 - ***Source code*** của Detect face and predict trong file DetectFaceAndPredict.ipynb
 ## Ứng dụng dự đoán biểu cảm gương mặt sử dụng Streamlit, Python dựa trên 2 model đã được train ở trên.
-***Source code*** của Deploy Web API trong file app_ResNet50.py và app_VGG16.py
+***Source code*** của Deploy Web API trong file app_ResNet50.py và app_VGG16.py\
 Link detect face và dự đoán biểu cảm khuôn mặt bằng ResNet50 : [here](https://huggingface.co/spaces/linhdan412/Facial_Emotion_Regconition_ResNet50?fbclid=IwAR194dLHOM9y5Jzahm4mXnmCNE1Urch6obmpL-in2DLzRXTyUtSCCcVjv9k)\
 Link detect face và dự đoán biểu cảm khuôn mặt bằng VGG16 : [here](https://huggingface.co/spaces/linhdan412/Facial_Emotion_Regconition)
